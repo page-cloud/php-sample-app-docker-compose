@@ -8,5 +8,5 @@ if($con->connect_error){
     echo '!!!! faild !!!!!' . $conn->connect_error;
 
 }
-echo ' Welcome to Page Cloud Acedamy  ';
+echo ' Welcome to Page Cloud Academy  ';
 ?>
